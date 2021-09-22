@@ -34,8 +34,9 @@ header .container{
 }
 .filme-principal{
     font-size: 16px;
-    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url(/netflix_clone/img/capa_demon_slayer.jpg);
-    height: 400px;background-size: cover;
+    background:url(/netflix_clone/img/capa_demon_slayer.jpg);
+    height: 400px;
+    background-size: cover;
     display: flex;
     flex-direction: column;
     justify-content: center;
